@@ -1,4 +1,5 @@
 <p align="center">
+    [![tests](https://github.com/soap/tschools-sl/actions/workflows/run-tests.yml/badge.svg)](https://github.com/soap/tschools-sl/actions/workflows/run-tests.yml)
 </p>
 
 ## About tSchools-SL
