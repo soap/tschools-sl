@@ -33,7 +33,7 @@ class User extends Authenticatable
     /**
      * The attributes that should be hidden for serialization.
      *
-     * @var array
+     * @var string[]
      */
     protected $hidden = [
         'password',
@@ -60,7 +60,7 @@ class User extends Authenticatable
         'profile_photo_url',
     ];
 
-    public function getNameAttribute()
+    public function getNameAttribute(): string
     {
         return "{$this->first_name} {$this->last_name}";
     }
