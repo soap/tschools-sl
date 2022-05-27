@@ -1,6 +1,6 @@
-<p align="center">
-[![tests](https://github.com/soap/tschools-sl/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/soap/tschools-sl/actions/workflows/run-tests.yml?branch=main)
-</p>
+
+[![tests](https://github.com/soap/tschools-sl/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/soap/tschools-sl/actions/workflows/run-tests.yml)
+
 
 ## About tSchools-SL
 
